@@ -99,3 +99,4 @@ Date,Time,Tank,Observer.Initials,Temperature_C,pH_mv,Salinity_psu,Calcium_ppm,TA
 20251211,10:30,display,PP,25.78,-59.4,35.84,,,Added DI
 20251212,11:56,display,PP,25.83,-65.4,35.68,,,DI added
 20251212,14:35,display,JH,25.84,-72.9,35.20,,,
+20251215,11:00,display,PP,25.41,-63.5,35.01,360,4.8,Dosed system with Ca+ and Alkalinity and water change
